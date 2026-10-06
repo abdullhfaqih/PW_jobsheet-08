@@ -1,0 +1,122 @@
+[
+  {
+    "judul": "Laskar Pelangi",
+    "pengarang": "Andrea Hirata",
+    "tahun": 2005,
+    "isbn": "978-979-3062-79-2",
+    "stok": 4,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Bumi Manusia",
+    "pengarang": "Pramoedya Ananta Toer",
+    "tahun": 1980,
+    "isbn": "978-979-97312-3-4",
+    "stok": 2,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Negeri 5 Menara",
+    "pengarang": "Ahmad Fuadi",
+    "tahun": 2009,
+    "isbn": "978-979-22-4861-6",
+    "stok": 0,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Filosofi Teras",
+    "pengarang": "Henry Manampiring",
+    "tahun": 2018,
+    "isbn": "978-602-424-694-5",
+    "stok": 5,
+    "kategori": "Filsafat"
+  },
+  {
+    "judul": "Ronggeng Dukuh Paruk",
+    "pengarang": "Ahmad Tohari",
+    "tahun": 1982,
+    "isbn": "978-979-22-0310-3",
+    "stok": 1,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Cantik Itu Luka",
+    "pengarang": "Eka Kurniawan",
+    "tahun": 2002,
+    "isbn": "978-602-03-1258-3",
+    "stok": 3,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Pulang",
+    "pengarang": "Tere Liye",
+    "tahun": 2015,
+    "isbn": "978-602-0822-12-9",
+    "stok": 2,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Sang Pemimpi",
+    "pengarang": "Andrea Hirata",
+    "tahun": 2006,
+    "isbn": "978-979-3062-92-1",
+    "stok": 6,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Perahu Kertas",
+    "pengarang": "Dee Lestari",
+    "tahun": 2009,
+    "isbn": "978-979-1227-78-0",
+    "stok": 0,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Gadis Kretek",
+    "pengarang": "Ratih Kumala",
+    "tahun": 2012,
+    "isbn": "978-979-22-8141-5",
+    "stok": 4,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Laut Bercerita",
+    "pengarang": "Leila S. Chudori",
+    "tahun": 2017,
+    "isbn": "978-602-424-694-6",
+    "stok": 5,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Bumi",
+    "pengarang": "Tere Liye",
+    "tahun": 2014,
+    "isbn": "978-602-03-0112-9",
+    "stok": 3,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+    "pengarang": "Dee Lestari",
+    "tahun": 2001,
+    "isbn": "978-979-96257-0-0",
+    "stok": 2,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Tenggelamnya Kapal Van Der Wijck",
+    "pengarang": "Prof. Dr. Hamka",
+    "tahun": 1938,
+    "isbn": "978-979-418-055-6",
+    "stok": 4,
+    "kategori": "Fiksi"
+  },
+  {
+    "judul": "Kritik Atas Akal Budi Murni",
+    "pengarang": "Immanuel Kant",
+    "tahun": 1781,
+    "isbn": "978-014-044-747-7",
+    "stok": 2,
+    "kategori": "Filsafat"
+  }
+]
